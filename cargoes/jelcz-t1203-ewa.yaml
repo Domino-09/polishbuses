@@ -1,9 +1,9 @@
-abbreviation: NE
+abbreviation: PB
 available: true
 classes: 1
-colour: 51
+colour: 10
 id: 0
-label: NEWC
+label: POLB
 longName: jelcz t120/3 ewa
 name: Jelcz T120/3 Ewa
 penaltyLength: 250
@@ -14,4 +14,4 @@ sprite:
   left: 0
   top: 0
 unitName: Passengers
-weight: 26
+weight: 16
