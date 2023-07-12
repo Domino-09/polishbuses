@@ -6,9 +6,9 @@ id: 0
 label: NEWC
 longName: jelcz t120/3 ewa
 name: Jelcz T120/3 Ewa
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 3577
+penaltyLength: 250
+penaltyLowerBound: 5
+price: 4153
 sprite:
   filename: cargoes/jelcz-t1203-ewa.png
   left: 0
