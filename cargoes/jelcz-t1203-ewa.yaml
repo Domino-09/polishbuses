@@ -1,0 +1,17 @@
+abbreviation: NE
+available: true
+classes: 1
+colour: 51
+id: 0
+label: NEWC
+longName: jelcz t120/3 ewa
+name: Jelcz T120/3 Ewa
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 3577
+sprite:
+  filename: cargoes/jelcz-t1203-ewa.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 26
